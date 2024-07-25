@@ -1,0 +1,3 @@
+ini adalah file data2.txt
+ini adalah baris baru
+ini adalah baris baru menggunakan appand
